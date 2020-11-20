@@ -23,7 +23,6 @@ function displayHeader($cityParam){
     $headerStr .= '<th>Continent</th>';
     $headerStr .= '<th>Independence</th>';
     $headerStr .= '<th>Head of State</th>';
-    
   }else{
     $headerStr .= '';
     $headerStr .= '<th>District</th>';
